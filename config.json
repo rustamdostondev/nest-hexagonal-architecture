@@ -1,4 +1,0 @@
-{
-  "PORT": 3000,
-  "PG_URL": "postgres:postgres:130230"
-}
